@@ -29,3 +29,4 @@ This pipeline is directly from the course's material.
 ### Test Pipeline
 
 The test pipeline is directly from [Sling Academy](https://www.slingacademy.com/article/step-by-step-guide-to-pytorch-model-testing/#1.-setting-up-your-environment).
+
