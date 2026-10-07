@@ -1,5 +1,16 @@
 # CNN
+
 A simple CNN for the Computer Vision class at Missouri State.
+
+## Usage
+
+The Python source files are in the src/ directory.  Please run them from root with the following:
+
+```Shell
+python main.py
+```
+
+This will run everything.
 
 ## AI Use Statement
 
