@@ -9,7 +9,7 @@ I utilized Gemini Notebook to assist me with understanding this assignment beyon
 
 ### Model Pipeline
 
-I built the model from course material with a little help from Gemini to debug some issues, like making sure to pass images directly to the CNN class instead of assigning it to the model attribute.  This ensures that Torch's `__call__()` wrapper is involved and all appropriate training hooks are employed or explicitly setting it to train mode before looping through the epochs.
+I built the model from course material with a little help from Gemini to debug some issues, like typos.  It helped me ensure that I both understood and implemented it correctly, so that Torch's `__call__()` wrapper is involved and all appropriate training hooks are employed, explicitly setting the model to train mode before looping through the epochs, and so forth.
 
 ### Train Pipeline
 
